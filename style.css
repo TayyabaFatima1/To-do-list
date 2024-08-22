@@ -8,7 +8,8 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
 }
-@media (max-width: 0px) { 
+@media screen and (min-width: 300px)and (max-width: 470px) {
+    
     .todo{
         font-size: 60px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
